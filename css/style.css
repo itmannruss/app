@@ -878,7 +878,7 @@ ul {
   background: #010223;
   justify-content: center;
   padding: 52px 8px 22px 8px;
-  transition: 1000ms;
+  transition: 300ms;
   opacity: 0;
   transform: translateY(-50px);
 }
